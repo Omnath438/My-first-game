@@ -1,3 +1,3 @@
 # My-first-game
-A number guessing game
+A number guessing game.
 I want see how it works and do things...

@@ -1,4 +1,4 @@
-# My-first-game
-A number guessing game.
+# My-second-game
+A classic rock-paper-scissors game.
 <br>
-I want see how it works and do things...
+......................................................
